@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>AspNetCore_IISTest</RootNamespace>
+    <UserSecretsId>f85beb1e-4404-418b-a57f-a8df639bfe2d</UserSecretsId>
+  </PropertyGroup>
+
+</Project>
